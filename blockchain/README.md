@@ -4,7 +4,7 @@ A **Blockchain** is a type of **Distributed Ledger Technology (DLT)** that consi
 
 ---
 
-##  Key Concepts
+## Key Concepts
 
 - **Distributed Ledger Technology (DLT)**
 - **Blocks**
